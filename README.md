@@ -1,6 +1,6 @@
-# -Intro-to-Machine-Learning-Final-Project
+# Machine Learning Final Project
+## Solar Flare Prediction 
 
-Solar Flare Prediction Project
 Project Overview
 This project aims to analyze and model solar flare data to predict the occurrence of different classes of solar flares (C-Class, M-Class, X-Class). The dataset, sourced from the UCI Machine Learning Repository, consists of various features representing solar activity. The goal is to use this data to build robust predictive models.
 
