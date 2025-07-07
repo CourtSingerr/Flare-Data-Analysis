@@ -1,4 +1,3 @@
-# Machine Learning Final Project
 ## Solar Flare Prediction 
 
 Project Overview
